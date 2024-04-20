@@ -11,35 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Master of Computer Science in Melbourne, The University of Melbourne, 2023
+* Bachelor of Science in Sydney, The University of Sydney, 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Dec 2023 - : Statistical Data Analyst
+  * The University of Melbourne
+  * Research area: Human Biomechanics
+  * Supervisor: Dr. Tomislav Bacek & Dr. Liuhua Peng
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Nov 2023 - : Research Assistant
+  * Monash University
+  * Research area: Commercial Real Estate Price Index & Agricultural Production and Climate Risk
+  * Supervisor: Dr. Daniel Melser
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Dec 2021 - May 2023: Information Technology Assistant
+  * AUK Logistics
+  * Duties included: Logistics Information Platform Development and Maintenance
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Statistics & Data Science
+* Programming
+  * Python
+  * R
+  * C
+  * Java
+  * Solidity
+* Data Engineering & Visualization
 
 Publications
 ======
